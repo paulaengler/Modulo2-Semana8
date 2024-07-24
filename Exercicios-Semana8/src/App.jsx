@@ -12,6 +12,7 @@ function App() {
 
   return (
     <>
+    {/* <Modal></Modal> */}
      <BrowserRouter>
         <Routes>
           <Route path='/' Component={Header} />
